@@ -1,6 +1,6 @@
 # gatsby-plugin-cmz
 
-This plugin checks which `cmz` classnames have been used in gatsby's SSR, and inlines them in a `<style>` tag, to avoid a FOUC.
+This plugin checks which [`cmz`](https://github.com/joshwnj/cmz) classnames have been used in gatsby's SSR, and inlines them in a `<style>` tag, to avoid a FOUC.
 
 ## Instructions
 
