@@ -19,6 +19,8 @@ plugins: [
 ]
 ```
 
+**Note:** This is intended for use with `cmz >= 3.13.0`
+
 ## Acknowledgenments
 
 Inspired by [gatsby-plugin-glamor](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-plugin-glamor)
